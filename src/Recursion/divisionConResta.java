@@ -39,7 +39,7 @@ public class divisionConResta {
 
     public static void main(String[] args) {
         int dividendo = 20;
-        int divisor = 0;
+        int divisor = 2;
 
         int resultado = divisionConRestaSinRecursion(dividendo, divisor);
         System.out.println("Resultado de la división: " + resultado);
